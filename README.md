@@ -1,2 +1,0 @@
-# soloJavaIntro
-Introduction to Java
